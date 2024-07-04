@@ -1,0 +1,167 @@
+@import url('https://fonts.googleapis.com/css/css2/family=Patrick+Hand&display-=swap');
+
+*,
+html,
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+body{
+    font-family: 'Patrick Hand, cursive';
+}
+
+.mynavbar{
+    background-color: #fcdcc5 !important;
+    backdrop-filter: blur(5px) !important;
+    border-bottom: 1px solid #666;
+}
+
+ .offcanvas{
+    height: 100vh;
+    background-color: #fcdcc5 ;
+
+}
+
+
+.mynavbar .navbar-brand, 
+.mynavbar .offcanvas-title{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.2rem;
+    background-color: #fcdcc5;
+}
+
+ .nav-link{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+
+.home{
+    min-height: 100vh;
+    padding-top: 15rem;
+    padding-bottom 5rem;
+    background-color: #fcdcc5;
+    padding-top: 150px;
+}
+
+.home h5{
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: red;
+    font-size: 2rem;
+
+}
+
+.home  h1{
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 4rem;
+}
+
+.home h4{
+    color : red;
+    font-weight: bold  ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.home h6{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    font-size: 1.2rem;
+}
+
+.image-container img {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 160px;
+}
+
+.img-responsive {
+    max-width: 100%; 
+    height: auto; 
+    border-radius: 50%; 
+    margin-left: 100px;
+}
+
+.home .btn{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 20px;
+}
+
+.home .btn:hover{
+    color: pink;
+}
+
+.myfooter{
+    margin-left:100px;
+    margin-top: 130px;
+}
+
+.myfooter h3{
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: red;
+    font-size: 1.3rem;
+}
+
+.myfooter h1{
+    color: black;
+    font-size: 2.5rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.i{
+    font-size: 1.3rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+
+.i span{
+    font-weight: bold;
+    color: red;
+}
+
+.kanan{
+    margin-left: 150px;
+    margin-bottom: 80px;
+}
+
+.kanan h1{
+    color: black;
+    font-size: 2.5rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.kanan h6{
+    font-size: 1.2rem;
+}
+
+.bi.bi-youtube{
+    font-size: 2rem;
+    color: black;
+    margin-right: auto;
+}
+
+.bi.bi-instagram{
+    font-size: 2rem;
+    color: black;
+    margin-right: auto;
+}
+
+.bi.bi-github{
+    font-size: 2rem;
+    color: black;
+    margin-right: auto;
+}
+
+.bi.bi-linkedin{
+    font-size: 2rem;
+    color: black;
+    margin-right: auto;
+}
+
+
+
+
+
